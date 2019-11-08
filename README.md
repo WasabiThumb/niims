@@ -110,3 +110,11 @@ A form of interpolation that will start at either 0 or 1 (polarity), and switch 
 
 f(i, min, max, {frequency: 2, polarity: 0})
 ```
+
+### HERMITE
+![Hermite Interpolation](https://i.postimg.cc/mrXwBLVT/smoothstep.png)   
+```
+Basic "hermite" interpolation. Good choice for preserving linearity while also introducing curvature.
+
+f(i, min, max)
+```
