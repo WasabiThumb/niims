@@ -1,0 +1,11 @@
+{
+  "name": "niims",
+  "version": "0.0.1",
+  "description": "Nonlinear Interpolation of Integers Made Simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "CodeX",
+  "license": "ISC"
+}
