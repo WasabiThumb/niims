@@ -1,6 +1,6 @@
 // niims base script
 const fs = require("fs");
-knownAddons = ["linear", "parabolic", "reflective", "sawtooth", "sine", "square"];
+knownAddons = ["linear", "parabolic", "reflective", "sawtooth", "sine", "square", "hermite"];
 niims = [];
 
 niims.rebase = function(float, min, max){
