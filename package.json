@@ -1,6 +1,6 @@
 {
   "name": "niims",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Nonlinear Interpolation of Integers Made Simple",
   "main": "index.js",
   "scripts": {
